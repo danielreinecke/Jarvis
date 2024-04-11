@@ -6,6 +6,6 @@ Requirements:
         openai
         pyttsx3
         speech_recognition
-    In the get input file make sure to put in your API key in the commented section
-
+    In the get input file make sure to set your openAI API key as openai.api_key.
+    If you don't have a API key you can get one here https://openai.com/blog/openai-api
     
