@@ -3,7 +3,7 @@ import os
 
 
 def createRespone(input):
-    openai.api_key = "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"
+    openai.api_key = #put your api key here
 
     messages = [{"role": "system", "content":  "You are a computer program that is named Jarvis and will call everyone sir"}] 
     message =  input
